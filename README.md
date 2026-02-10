@@ -54,12 +54,12 @@ The project focuses on:
 - Reproduces outputs from the original HEARTS baseline models  
 - Loads saved model results  
 - Generates classification reports and confusion matrices  
-- Designed for **Kernel → Restart & Run All**
 
 ### `Adapted-HateSpeech.ipynb`
 - Applies the baseline architecture to a hate-speech dataset  
 - Compares baseline vs adapted predictions  
 - Produces performance metrics and visualisations  
+- Reproducible
 
 ### `Exploratory_GOVUK_Baseline_Failed.ipynb`
 - Early experimentation notebook  
@@ -69,7 +69,7 @@ The project focuses on:
 
 ## Reproducibility
 
-The primary notebooks are structured to allow:
+Adapted-Hatespeech is structured to allow:
 
 **Kernel → Restart & Run All**
 
