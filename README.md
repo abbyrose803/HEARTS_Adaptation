@@ -4,8 +4,8 @@
 
 | File | Description |
 |------|------------|
-| `Reproduced_HEARTS_Baseline.ipynb` | Main reproducible notebook for baseline model evaluation |
-| `Adapted-HateSpeech.ipynb` | Adapted model applied to hate-speech dataset with evaluation |
+| `Adapted-HateSpeech.ipynb` | Reproducible notebook of adapted model applied to hate-speech dataset with evaluation |
+| `Reproduced_HEARTS_Baseline.ipynb` | Notebook for baseline model reproduction |
 | `Exploratory_GOVUK_Baseline_Failed.ipynb` | Early experimental notebook showing unsuccessful baseline attempt (included for transparency) |
 | `README.md` | Project overview and instructions |
 
