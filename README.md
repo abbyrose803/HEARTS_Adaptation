@@ -107,6 +107,20 @@ pip install numpy pandas scikit-learn matplotlib seaborn transformers
 3. Select a Python kernel  
 4. Click **Kernel → Restart & Run All**
 
+## Datasets
+
+This project uses two publicly available datasets:
+
+**HEARTS / EMGSD Dataset**  
+- Source: https://github.com/holistic-ai/HEARTS-Text-Stereotype-Detection
+- Used for baseline reproduction and evaluation.
+
+**Davidson Hate Speech Dataset**  
+- Source: https://github.com/t-davidson/hate-speech-and-offensive-language  
+- Used for model adaptation and comparative evaluation.
+
+Datasets are not included in this repository due to size and licensing considerations.  
+Users should download them directly from the original sources.
 
 ## Author
 Abby Reynolds
